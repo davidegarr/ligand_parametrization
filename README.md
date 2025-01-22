@@ -1,2 +1,2 @@
 # ligand_parametrization
-Parametrization of biphosphine ligands available in SPF's lab
+Parametrization of bisphosphine ligands available in SPF's lab
